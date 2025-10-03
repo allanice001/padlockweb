@@ -21,11 +21,11 @@
 	},
 	"require": {
 		"composer/installers": "~1.0",
-		"kohana/core":         ">=3.3",
+		"kohana/core":         ">=3.3.6",
 		"php":                 ">=5.3.6"
 	},
     "require-dev": {
-        "kohana/core":         "3.3.*@dev",
+        "kohana/core":         "3.3.6@dev",
         "kohana/unittest":     "3.3.*@dev",
         "kohana/koharness":    "*@dev"
     },
