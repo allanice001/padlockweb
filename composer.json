@@ -1,6 +1,6 @@
 {
 	"require": {
-		"phpunit/phpunit": "3.7.24 - 4",
+		"phpunit/phpunit": "6.5.14 6.5.14",
 		"phing/phing": "dev-master"
 	}
 }
