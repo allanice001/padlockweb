@@ -22,7 +22,7 @@
 	"require": {
 		"composer/installers": "~1.12.0",
 		"kohana/core":         ">=3.3",
-		"php":                 ">=5.3.6"
+		"php":                 ">=8.5.3"
 	},
     "require-dev": {
         "kohana/core":         "3.3.*@dev",
