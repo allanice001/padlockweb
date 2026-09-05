@@ -27,7 +27,7 @@
     "require-dev": {
         "kohana/core":         "3.3.*@dev",
         "kohana/unittest":     "3.3.*@dev",
-        "kohana/koharness":    "*@dev"
+        "kohana/koharness":    "v0.1.1@dev"
     },
 	"extra": {
 		"branch-alias": {
