@@ -26,7 +26,7 @@
 	},
     "require-dev": {
         "kohana/core":         "3.3.*@dev",
-        "kohana/unittest":     "3.3.*@dev",
+        "kohana/unittest":     "3.3.6@dev",
         "kohana/koharness":    "*@dev"
     },
 	"suggest": {
